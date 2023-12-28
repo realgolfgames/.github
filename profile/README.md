@@ -1,5 +1,9 @@
 # Real Golf Games
 
+
+![GitHub Org's stars](https://img.shields.io/github/stars/realgolf?style=for-the-badge&color=goldenrod)
+
+
 This is the oficial GitHub Organisation for the Real Golf Games Organisation
 
 ## Contributing to Real Golf Games
