@@ -26,12 +26,4 @@ Feel free to explore each project, raise issues, submit pull requests, and share
 
 Before contributing, please review our [Contribution Guidelines](./CONTRIBUTING.md) to ensure a smooth and effective collaboration process.
 
-## 📬 Stay Connected
-
-Follow us on social media for the latest updates, announcements, and behind-the-scenes insights:
-
-- [Twitter](https://twitter.com/RealGolfGames)
-- [Instagram](https://www.instagram.com/realgolfgames)
-- [LinkedIn](https://www.linkedin.com/company/realgolfgames)
-
 We look forward to building the future of golf playing with you. Happy coding! ⛳️✨
