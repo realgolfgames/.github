@@ -11,7 +11,7 @@ Welcome to the official GitHub Organization for Real Golf Games! Here, we collab
 
 ## 🚀 Get Involved
 
-Explore our open-source repositories and dive into the world of golf game development. Your contributions make a significant impact, and we're excited to build something great together. All our projects are licensed under the [MIT License](https://github.com/search?q=org%3Arealgolf++license%3Amit+&type=repositories), fostering a collaborative and open environment.
+Explore our open-source repositories and dive into the world of golf game development. Your contributions make a significant impact, and we're excited to build something great together. Some of our projects are licensed under the [MIT License](https://github.com/search?q=org%3Arealgolf++license%3Amit+&type=repositories), fostering a collaborative and open environment.
 
 ## 🏞️ Projects
 
