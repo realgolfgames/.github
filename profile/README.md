@@ -1,4 +1,4 @@
-# Real Golf Games ⛳️
+# RealGolf.Games ⛳️
 
 Welcome to the official GitHub Organization for Real Golf Games! Here, we collaborate on and maintain various projects related to the exciting world of golf. Your contributions are highly valued, and we invite you to join us in enhancing the golf playing experience for enthusiasts worldwide.
 
