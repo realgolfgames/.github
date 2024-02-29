@@ -27,3 +27,5 @@ Feel free to explore each project, raise issues, submit pull requests, and share
 Before contributing, please review our [Contribution Guidelines](./CONTRIBUTING.md) to ensure a smooth and effective collaboration process.
 
 We look forward to building the future of golf playing with you. Happy coding! ⛳️✨
+
+Copyright © 2024 RealGolf.Games
