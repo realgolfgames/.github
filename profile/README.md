@@ -6,12 +6,12 @@ Welcome to the official GitHub Organization for Real Golf Games! Here, we collab
 
 ## 🌟 Star Status
 
-[![GitHub Org's stars](https://img.shields.io/github/stars/realgolf?style=for-the-badge&color=goldenrod)](https://github.com/realgolf?tab=stars)
-[![GitHub followers](https://img.shields.io/github/followers/realgolf?style=for-the-badge)](https://github.com/realgolf?tab=followers)
+[![GitHub Org's stars](https://img.shields.io/github/stars/realgolfgames?style=for-the-badge&color=goldenrod)](https://github.com/realgolfgames?tab=stars)
+[![GitHub followers](https://img.shields.io/github/followers/realgolfgames?style=for-the-badge)](https://github.com/realgolfgames?tab=followers)
 
 ## 🚀 Get Involved
 
-Explore our open-source repositories and dive into the world of golf game development. Your contributions make a significant impact, and we're excited to build something great together. Some of our projects are licensed under the [MIT License](https://github.com/search?q=org%3Arealgolf++license%3Amit+&type=repositories), fostering a collaborative and open environment.
+Explore our open-source repositories and dive into the world of golf game development. Your contributions make a significant impact, and we're excited to build something great together. Some of our projects are licensed under the [MIT License](https://github.com/search?q=org%3Arealgolfgames++license%3Amit+&type=repositories), fostering a collaborative and open environment.
 
 ## 🏞️ Projects
 
